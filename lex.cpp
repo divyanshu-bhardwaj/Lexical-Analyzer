@@ -27,7 +27,7 @@ int main()
 	fstream file; 
 	string s, filename; 
 
-	filename = "./add.c"; 
+	filename = "./Name_of_the_file_to_be_analysed"; 
 
 	file.open(filename.c_str()); 
 
